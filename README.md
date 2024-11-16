@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a full-stack software engineer with a knack for solving problems and creating high-quality software solutions. I bridge technical and business objectives by combining my development expertise with my background in business and data analysis.
 
+<!--START_SECTION:activity-->
+
 ![ddvkhanh's Stats](https://github-readme-stats.vercel.app/api?username=ddvkhanh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
@@ -14,7 +16,7 @@ I enjoy working in collaborative environments where I can contribute to team suc
 ## Tech Stack
 
 - Back-End: [![My Skills](https://skillicons.dev/icons?i=java,nodejs,express,spring,mongodb,mysql)](https://skillicons.dev)
-- Front-End: [![My Skills](https://skillicons.dev/icons?i=html,CSS,js,jquery,react,ts,angular)](https://skillicons.dev)
+- Front-End: [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,angular)](https://skillicons.dev)
 - Tools: [![My Skills](https://skillicons.dev/icons?i=git,jenkins,postman)](https://skillicons.dev)
 - Clouds:[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
