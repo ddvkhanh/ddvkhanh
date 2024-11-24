@@ -32,13 +32,11 @@ When I’m not coding, I enjoy gaming, cooking, and learning new technologies
 I have a background in business analysis, which helps me understand user needs and optimize development processes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ## 📬 Let’s Connect!
 Feel free to reach out to me for collaboration, mentorship, or just a friendly chat! I'm always open to new opportunities.
 
 LinkedIn: https://www.linkedin.com/in/ddvkhanh/
 Website: https://kathydang-porfolio.vercel.app/
-
 <!--
 
 Here are some ideas to get you started:
