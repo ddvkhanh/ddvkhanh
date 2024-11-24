@@ -36,9 +36,11 @@ Feel free to reach out to me for collaboration, mentorship, or just a friendly c
 
 LinkedIn: https://www.linkedin.com/in/ddvkhanh/
 Website: https://kathydang-porfolio.vercel.app/
-<!--
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
