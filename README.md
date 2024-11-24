@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a full-stack software engineer with a knack fo
 
 <!--START_SECTION:activity-->
 
-![ddvkhanh's Stats](https://github-readme-stats.vercel.app/api?username=ddvkhanh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 I'm currently working as a fullstack developer, with over 3 years of professional experience. My background includes solid experience in full-stack development, including front-end frameworks like React and Angular, as well as backend technologies such as Java SpringBoot, SQL Server, MongoDB, and MySQL.
@@ -40,6 +38,7 @@ LinkedIn: https://www.linkedin.com/in/ddvkhanh/
 Website: https://kathydang-porfolio.vercel.app/
 <!--
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
